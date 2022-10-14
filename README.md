@@ -1,0 +1,1 @@
+# Trying in Docker, Celery and i.t.s
